@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/ObjectDetection.unity
+    guid: 5682fc4d68300e546af265c54195e798
   m_configObjects: {}
