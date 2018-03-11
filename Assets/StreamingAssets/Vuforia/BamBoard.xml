@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="PaperTarget" size="27.799999 20.873089" />
     <ImageTarget name="KingOfSpadesTarget" size="0.085000 0.113050" />
     <ImageTarget name="QueenOfHeartsTest" size="0.085000 0.120233" />
   </Tracking>
