@@ -195,7 +195,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 226541974}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.0084033, y: 5.369305, z: -0.76957107}
+  m_LocalPosition: {x: -1.0084033, y: -12.2, z: -0.76957107}
   m_LocalScale: {x: 4.4228215, y: 4.4228215, z: 4.4228215}
   m_Children: []
   m_Father: {fileID: 1370257561}
@@ -468,7 +468,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 484379181}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.017249, y: 10.9, z: -0.91110057}
+  m_LocalPosition: {x: -1.017249, y: -5.8, z: -0.91110057}
   m_LocalScale: {x: 6.6342325, y: 6.6342325, z: 6.6342325}
   m_Children: []
   m_Father: {fileID: 1370257561}
@@ -586,7 +586,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1370257555}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.115, y: 0.17, z: -0.924}
+  m_LocalPosition: {x: -0.09, y: 0.81, z: -0.924}
   m_LocalScale: {x: 0.11305, y: 0.11305, z: 0.11305}
   m_Children:
   - {fileID: 226541978}
@@ -716,7 +716,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1378979769}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.42459086, y: 1.0172489, z: -0.76957107}
+  m_LocalPosition: {x: 0.42459086, y: -17.2, z: -0.76957107}
   m_LocalScale: {x: 1, y: 4.4228215, z: 0.88456434}
   m_Children: []
   m_Father: {fileID: 1370257561}
@@ -828,7 +828,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1455398875}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2.9898274, y: 1.0172489, z: -0.76957107}
+  m_LocalPosition: {x: -2.9898274, y: -19.2, z: -0.76957107}
   m_LocalScale: {x: 1, y: 4.4228215, z: 0.88456434}
   m_Children: []
   m_Father: {fileID: 1370257561}
@@ -861,7 +861,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1455666549}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1.707209, y: 4.219372, z: -0.76957107}
+  m_LocalPosition: {x: 1.707209, y: -12.9, z: -0.76957107}
   m_LocalScale: {x: 1, y: 4.4228215, z: 0.88456434}
   m_Children: []
   m_Father: {fileID: 1370257561}
@@ -1219,7 +1219,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1866888105}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -4.113224, y: 4.219372, z: -0.76957107}
+  m_LocalPosition: {x: -4.113224, y: -15.8, z: -0.76957107}
   m_LocalScale: {x: 1, y: 4.4228215, z: 0.88456434}
   m_Children: []
   m_Father: {fileID: 1370257561}
@@ -1391,7 +1391,7 @@ Material:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: QueenOfHeartsTestMaterial
+  m_Name: KingOfSpadesTargetMaterial
   m_Shader: {fileID: 10752, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: 
   m_LightmapFlags: 5
@@ -1404,7 +1404,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: ed2960a7f59f4156a35f2027d560adfe, type: 3}
+        m_Texture: {fileID: 2800000, guid: ccecdfd4ce8e44e0a8a5878595271afc, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats: []
